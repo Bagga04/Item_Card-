@@ -1,0 +1,212 @@
+body{
+    padding-top: 200px;
+    padding-left: 300px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+  transition: 0.3s;
+  width: 23cm;
+  height:6.5cm;
+  /*margin-left: 300px;
+  margin-top: 0px;*/
+  background-color: #ffffff;
+  display: flex;
+  position: relative;
+    border-radius: 15px;
+}
+.Profile_Sidebar{
+    position: absolute;
+    left: 0;
+    padding: 10px;
+}
+.box{
+    background-color: #FFEFD6;
+    padding-left:10px;
+    border-radius: 25px;
+    width:70px;
+    height: 35px;
+}
+.earth{
+    padding-top: 6px;
+    font-weight: bold;
+    font-family: 'Manrope', sans-serif;
+    color:#EB693B;   
+}
+i{
+  color:black;  
+}
+span{
+    color:#FFEFD6; 
+    font-size:8px;
+}
+img{
+    height: 1.5cm;
+    width: 4.5cm;
+    top: 4cm;
+    padding-top: 40px;
+    
+}
+.Profile_main{
+    position: absolute;
+    position: relative;
+    background-color: #ffffff;
+    left:6cm;
+}
+.line1{
+    display: flex;
+}
+h2{
+  margin-right: 15px; 
+    font-size:18px;
+    padding-top: 10px;
+    font-family: 'Manrope', sans-serif;
+}
+.masters{
+    height:30px;
+    width:75px;
+    text-align: center;
+    font-size: 15px;
+    background:#F1F7FA;
+    border-radius: 25px;
+    padding-bottom: 0px;
+    margin-top: 20px;
+    padding-top: 7px;
+    color: #263238;
+    font-family: 'Manrope', sans-serif;
+}
+.line2{
+    display: flex;
+    padding: 0px;
+    position: absolute;
+    top: 40px;
+    font-size:13px;
+}
+h3{
+    font-weight: bolder;
+    color:#EB693B;
+    font-weight: bolder;
+    font-family: 'Manrope', sans-serif;
+}
+.bar{
+    padding: 10px;
+    padding-top: 4px;
+    padding-left:13px;
+    color: #B1B1B1;
+}
+.public{
+    padding: 5px;
+    padding-left: 3px;
+    padding-top: 4px;
+    color: #B1B1B1;  
+    font-family: 'Manrope', sans-serif;
+}
+.line3{
+    display: flex;
+    position: absolute;
+    left: 0px;
+    margin: 0px;
+    padding-left:0px; 
+    font-size:13px;
+}
+.CourseFee{
+  list-style: none;
+  padding-right:0px;
+  line-height:17px; 
+}
+.ApplicationFee{
+  list-style: none;
+  padding-left: 50px;
+  line-height:17px;
+}
+.NextInTake{
+  list-style: none;
+  padding-left: 50px;
+  line-height:14px;
+}
+.line4{
+    display: flex;
+    position: absolute;
+    top: 160px;
+    padding-left:0px;
+    font-size:13px;
+}
+.IELTS{
+  list-style: none;
+  padding: 5px;
+  padding-left:0px;
+  line-height:30px;
+}
+.GRE{
+  list-style: none;
+  padding: 5px;
+  line-height:30px;
+}
+.TOEFL{
+  list-style: none;
+  padding: 5px;
+  line-height:30px;
+}
+.GMAT{
+  list-style: none;
+  padding: 5px;
+  line-height:30px;
+}
+.exam{
+  color: orange;
+  font-weight: bold;
+  color:#EB693B;
+    font-family: 'Manrope', sans-serif;
+}
+.fee{
+  color: orange;
+  font-weight: bold;
+  color:#EB693B;
+    font-family: 'Manrope', sans-serif;
+}
+.amount{
+  font-weight:800;
+  font-style: solid;
+    font-family: 'Manrope', sans-serif;
+}
+.score{
+  font-weight:800;
+  font-style: solid;
+    font-family: 'Manrope', sans-serif;
+}
+.bar1{
+  padding: 15px;
+  margin-top: 15px;
+  font-size: 30px;
+  font-weight:10;
+    color: #B9B9B9;
+}
+.buttons{
+    display: flex;
+    position: absolute;
+    bottom: 0px;
+    right:-240px;
+    padding-top: 15px;
+    
+}
+button{
+  width: 100px;
+  height: 25px;
+  border-radius: 25px;
+  border-style: none;
+ /* margin-top: 0px;
+  margin: 5px;*/
+  background-color:orange;
+}
+.Enquire{
+  background-color: #FFEFD6;
+  color: #EB693B;
+    font-family: 'Manrope', sans-serif;
+}
+.dash{
+    color: white;
+}
+.Intrested{
+  background-color: #EB693B;
+  color: #FFEFD6;
+    font-family: 'Manrope', sans-serif;
+}
